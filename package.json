@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo list with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inziani/todo.git"
+  },
+  "author": "Inziani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inziani/todo/issues"
+  },
+  "homepage": "https://github.com/inziani/todo#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
